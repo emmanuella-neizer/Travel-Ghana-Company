@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 512 512"
+   id="svg4"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8">
+    <rect
+       x="76.530557"
+       y="86.516389"
+       width="368.18216"
+       height="305.15879"
+       id="rect49875" />
+    <rect
+       x="80.805705"
+       y="90.173597"
+       width="369.89657"
+       height="338.60281"
+       id="rect28353" />
+    <rect
+       x="96.952306"
+       y="113.97802"
+       width="337.92687"
+       height="308.1822"
+       id="rect18279" />
+    <rect
+       x="76.296527"
+       y="133.71068"
+       width="374.356"
+       height="293.37502"
+       id="rect10089" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.5208438"
+     inkscape:cx="249.20377"
+     inkscape:cy="279.12137"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <text
+     xml:space="preserve"
+     id="text10087"
+     style="line-height:1.25;font-family:sans-serif;font-size:16px;white-space:pre;shape-inside:url(#rect10089)" />
+  <text
+     xml:space="preserve"
+     id="text18277"
+     style="line-height:1.25;font-family:sans-serif;font-size:16px;white-space:pre;shape-inside:url(#rect18279)" />
+  <text
+     xml:space="preserve"
+     id="text28351"
+     style="line-height:1.25;font-family:sans-serif;font-size:144px;white-space:pre;shape-inside:url(#rect28353)" />
+  <g
+     id="g80023">
+    <rect
+       width="512"
+       height="512"
+       style="fill:#4883ff;paint-order:stroke fill markers"
+       id="rect2" />
+    <text
+       xml:space="preserve"
+       id="text49873"
+       style="font-size:144px;line-height:1.25;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';white-space:pre;shape-inside:url(#rect49875)"
+       transform="matrix(1.5441526,0,0,1.5441526,-67.478173,-22.913019)"><tspan
+         x="76.53125"
+         y="219.71562"
+         id="tspan80044"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Lobster Two, Bold';fill:#ffffff"
+           id="tspan80042">TGC</tspan></tspan></text>
+  </g>
+</svg>
